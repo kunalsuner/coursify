@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.learning</groupId>
-	<artifactId>coursify</artifactId>
+	<artifact Id>coursify</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
